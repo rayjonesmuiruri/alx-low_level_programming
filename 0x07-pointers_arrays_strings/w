@@ -1,2 +1,0 @@
-#!/bin/bash
-sed -i 's/[[:space:]]*$//' 0-memset.c
