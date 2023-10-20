@@ -1,7 +1,7 @@
 #include "lists.h"
 /**
 * add_node - function that adds a new node
-* at the beginning of a list_t list
+* At the beginning of a list_t list
 * @head: Parameter with the head node
 * @str: parameter with the element str in the structure
 * Return: Return the head of the linked list
